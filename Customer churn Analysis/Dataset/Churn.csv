@@ -1,0 +1,201 @@
+date,customer_id,age,gender,tenure_months,subscription_type,monthly_charges,total_charges,payment_method,contract_type,internet_service,tech_support,streaming,device_protection,paperless_billing,avg_monthly_usage_gb,num_logins_last_30days,support_tickets,last_interaction_days,churn
+12/01/2022,C001,25,Female,5,Basic,25,125,Credit Card,Month-to-Month,Fiber,NO,NO,NO,YES,12,15,2,5,YES 
+13/01/2022,C002,40,Male,24,Premium,80,1920,Bank Transfer,1-Year,DSL,YES,YES,YES,NO,50,30,0,2,NO 
+14/01/2022,C003,31,Female,12,Standard,50,600,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,30,10,3,10,YES 
+15/01/2022,C004,29,Male,36,Premium,90,3240,Credit Card,2-Year,Fiber,YES,YES,YES,YES,70,40,1,1,NO 
+16/01/2022,C005,45,Female,8,Basic,30,240,Cash,Month-to-Month,DSL,NO,NO,NO,NO,10,8,4,20,YES 
+17/01/2022,C006,34,Male,18,Standard,60,1080,Bank Transfer,1-Year,Fiber,YES,YES,NO,YES,40,25,1,3,NO 
+18/01/2022,C007,50,Female,48,Premium,100,4800,Credit Card,2-Year,Fiber,YES,YES,YES,YES,80,50,0,1,NO 
+19/01/2022,C008,22,Male,3,Basic,20,60,Cash,Month-to-Month,DSL,NO,NO,NO,YES,8,5,5,25,YES 
+20/01/2022,C009,38,Female,15,Standard,55,825,Debit Card,1-Year,Fiber,YES,YES,NO,YES,35,20,2,7,NO
+21/01/2022,C010,27,Male,6,Basic,28,168,Credit Card,Month-to-Month,DSL,NO,NO,NO,NO,15,12,3,12,YES 
+22/01/2022,C011,41,Female,30,Premium,85,2550,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,60,35,1,2,NO 
+23/01/2022,C012,36,Male,10,Standard,52,520,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,25,18,2,9,YES 
+24/01/2022,C013,28,Female,20,Standard,58,1160,Credit Card,1-Year,DSL,YES,YES,NO,YES,33,22,1,4,NO 
+25/01/2022,C014,33,Male,2,Basic,22,44,Cash,Month-to-Month,Fiber,NO,NO,NO,YES,9,6,6,30,YES 
+26/01/2022,C015,47,Female,60,Premium,110,6600,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,90,60,0,1,NO 
+27/01/2022,C016,29,Male,36,Premium,90,3240,Credit Card,2-Year,Fiber,YES,YES,YES,YES,70,40,1,1,NO 
+28/01/2022,C017,45,Female,8,Basic,30,240,Cash,Month-to-Month,DSL,NO,NO,NO,NO,10,8,4,20,YES 
+29/01/2022,C018,34,Male,18,Standard,60,1080,Bank Transfer,1-Year,Fiber,YES,YES,NO,YES,40,25,1,3,NO 
+30/01/2022,C019,50,Female,48,Premium,100,4800,Credit Card,2-Year,Fiber,YES,YES,YES,YES,80,50,0,1,NO 
+31/01/2022,C020,41,Female,30,Premium,85,2550,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,60,35,1,2,NO 
+01/02/2022,C021,36,Male,10,Standard,52,520,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,25,18,2,9,YES 
+02/02/2022,C022,28,Female,20,Standard,58,1160,Credit Card,1-Year,DSL,YES,YES,NO,YES,33,22,1,4,NO 
+03/02/2022,C023,33,Male,2,Basic,22,44,Cash,Month-to-Month,Fiber,NO,NO,NO,YES,9,6,6,30,YES 
+04/02/2022,C024,37,Male,6,Basic,40,160,Bank Transfer,2-Year,DSL,NO,NO,NO,YES,10,7,2,9,YES 
+05/02/2022,C025,25,Female,5,Basic,25,125,Credit Card,Month-to-Month,Fiber,NO,NO,NO,YES,12,15,2,5,YES 
+06/02/2022,C026,40,Male,24,Premium,80,1920,Bank Transfer,1-Year,DSL,YES,YES,YES,NO,50,30,0,2,NO 
+07/02/2022,C027,31,Female,12,Standard,50,600,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,30,10,3,10,YES 
+08/02/2022,C028,29,Male,36,Premium,90,3240,Credit Card,2-Year,Fiber,YES,YES,YES,YES,70,40,1,1,NO 
+09/02/2022,C029,45,Female,8,Basic,30,240,Cash,Month-to-Month,DSL,NO,NO,NO,NO,10,8,4,20,YES 
+10/02/2022,C030,34,Male,18,Standard,60,1080,Bank Transfer,1-Year,Fiber,YES,YES,NO,YES,40,25,1,3,NO 
+11/02/2022,C031,50,Female,48,Premium,100,4800,Credit Card,2-Year,Fiber,YES,YES,YES,YES,80,50,0,1,NO 
+12/02/2022,C032,22,Male,3,Basic,20,60,Cash,Month-to-Month,DSL,NO,NO,NO,YES,8,5,5,25,YES 
+13/02/2022,C033,38,Female,15,Standard,55,825,Debit Card,1-Year,Fiber,YES,YES,NO,YES,35,20,2,7,NO
+14/02/2022,C034,27,Male,6,Basic,28,168,Credit Card,Month-to-Month,DSL,NO,NO,NO,NO,15,12,3,12,YES 
+15/02/2022,C035,41,Female,30,Premium,85,2550,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,60,35,1,2,NO 
+16/02/2022,C036,36,Male,10,Standard,52,520,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,25,18,2,9,YES 
+17/02/2022,C037,28,Female,20,Standard,58,1160,Credit Card,1-Year,DSL,YES,YES,NO,YES,33,22,1,4,NO 
+18/02/2022,C038,33,Male,2,Basic,22,44,Cash,Month-to-Month,Fiber,NO,NO,NO,YES,9,6,6,30,YES 
+19/02/2022,C039,47,Female,60,Premium,110,6600,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,90,60,0,1,NO 
+20/02/2022,C040,22,Male,3,Basic,20,60,Cash,Month-to-Month,DSL,NO,NO,NO,YES,8,5,5,25,YES 
+21/02/2022,C041,38,Female,15,Standard,55,825,Debit Card,1-Year,Fiber,YES,YES,NO,YES,35,20,2,7,NO
+22/02/2022,C042,27,Male,6,Basic,28,168,Credit Card,Month-to-Month,DSL,NO,NO,NO,NO,15,12,3,12,YES 
+23/02/2022,C043,41,Female,30,Premium,85,2550,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,60,35,1,2,NO 
+24/02/2022,C044,36,Male,10,Standard,52,520,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,25,18,2,9,YES 
+25/02/2022,C045,28,Female,20,Standard,58,1160,Credit Card,1-Year,DSL,YES,YES,NO,YES,33,22,1,4,NO 
+26/02/2022,C046,33,Male,2,Basic,22,44,Cash,Month-to-Month,Fiber,NO,NO,NO,YES,9,6,6,30,YES 
+27/02/2022,C047,47,Female,60,Premium,110,6600,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,90,60,0,1,NO 
+28/02/2022,C048,29,Male,36,Premium,90,3240,Credit Card,2-Year,Fiber,YES,YES,YES,YES,70,40,1,1,NO 
+01/03/2022,C049,45,Female,8,Basic,30,240,Cash,Month-to-Month,DSL,NO,NO,NO,NO,10,8,4,20,YES 
+02/03/2022,C050,34,Male,18,Standard,60,1080,Bank Transfer,1-Year,Fiber,YES,YES,NO,YES,40,25,1,3,NO 
+03/03/2022,C051,50,Female,48,Premium,100,4800,Credit Card,2-Year,Fiber,YES,YES,YES,YES,80,50,0,1,NO 
+04/03/2022,C052,41,Female,30,Premium,85,2550,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,60,35,1,2,NO 
+05/03/2022,C053,36,Male,10,Standard,52,520,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,25,18,2,9,YES 
+06/03/2022,C054,28,Female,20,Standard,58,1160,Credit Card,1-Year,DSL,YES,YES,NO,YES,33,22,1,4,NO 
+07/03/2022,C055,33,Male,2,Basic,22,44,Cash,Month-to-Month,Fiber,NO,NO,NO,YES,9,6,6,30,YES 
+08/03/2022,C056,37,Male,6,Basic,40,160,Bank Transfer,2-Year,DSL,NO,NO,NO,YES,10,7,2,9,YES 
+09/03/2022,C057,25,Female,5,Basic,25,125,Credit Card,Month-to-Month,Fiber,NO,NO,NO,YES,12,15,2,5,YES 
+10/03/2022,C058,40,Male,24,Premium,80,1920,Bank Transfer,1-Year,DSL,YES,YES,YES,NO,50,30,0,2,NO 
+11/03/2022,C059,31,Female,12,Standard,50,600,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,30,10,3,10,YES 
+12/03/2022,C060,29,Male,36,Premium,90,3240,Credit Card,2-Year,Fiber,YES,YES,YES,YES,70,40,1,1,NO 
+13/03/2022,C061,45,Female,8,Basic,30,240,Cash,Month-to-Month,DSL,NO,NO,NO,NO,10,8,4,20,YES 
+14/03/2022,C062,34,Male,18,Standard,60,1080,Bank Transfer,1-Year,Fiber,YES,YES,NO,YES,40,25,1,3,NO 
+15/03/2022,C063,50,Female,48,Premium,100,4800,Credit Card,2-Year,Fiber,YES,YES,YES,YES,80,50,0,1,NO 
+16/03/2022,C064,22,Male,3,Basic,20,60,Cash,Month-to-Month,DSL,NO,NO,NO,YES,8,5,5,25,YES 
+17/03/2022,C065,38,Female,15,Standard,55,825,Debit Card,1-Year,Fiber,YES,YES,NO,YES,35,20,2,7,NO
+18/03/2022,C066,27,Male,6,Basic,28,168,Credit Card,Month-to-Month,DSL,NO,NO,NO,NO,15,12,3,12,YES 
+19/03/2022,C067,41,Female,30,Premium,85,2550,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,60,35,1,2,NO 
+20/03/2022,C068,36,Male,10,Standard,52,520,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,25,18,2,9,YES 
+21/03/2022,C069,28,Female,20,Standard,58,1160,Credit Card,1-Year,DSL,YES,YES,NO,YES,33,22,1,4,NO 
+22/03/2022,C070,33,Male,2,Basic,22,44,Cash,Month-to-Month,Fiber,NO,NO,NO,YES,9,6,6,30,YES 
+23/03/2022,C071,47,Female,60,Premium,110,6600,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,90,60,0,1,NO 
+24/03/2022,C072,22,Male,3,Basic,20,60,Cash,Month-to-Month,DSL,NO,NO,NO,YES,8,5,5,25,YES 
+25/03/2022,C073,38,Female,15,Standard,55,825,Debit Card,1-Year,Fiber,YES,YES,NO,YES,35,20,2,7,NO
+26/03/2022,C074,27,Male,6,Basic,28,168,Credit Card,Month-to-Month,DSL,NO,NO,NO,NO,15,12,3,12,YES 
+27/03/2022,C075,41,Female,30,Premium,85,2550,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,60,35,1,2,NO 
+28/03/2022,C076,36,Male,10,Standard,52,520,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,25,18,2,9,YES 
+29/03/2022,C077,28,Female,20,Standard,58,1160,Credit Card,1-Year,DSL,YES,YES,NO,YES,33,22,1,4,NO 
+30/03/2022,C078,33,Male,2,Basic,22,44,Cash,Month-to-Month,Fiber,NO,NO,NO,YES,9,6,6,30,YES 
+31/03/2022,C079,47,Female,60,Premium,110,6600,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,90,60,0,1,NO 
+01/04/2022,C080,29,Male,36,Premium,90,3240,Credit Card,2-Year,Fiber,YES,YES,YES,YES,70,40,1,1,NO 
+02/04/2022,C081,45,Female,8,Basic,30,240,Cash,Month-to-Month,DSL,NO,NO,NO,NO,10,8,4,20,YES 
+03/04/2022,C082,34,Male,18,Standard,60,1080,Bank Transfer,1-Year,Fiber,YES,YES,NO,YES,40,25,1,3,NO 
+04/04/2022,C083,50,Female,48,Premium,100,4800,Credit Card,2-Year,Fiber,YES,YES,YES,YES,80,50,0,1,NO 
+05/04/2022,C084,41,Female,30,Premium,85,2550,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,60,35,1,2,NO 
+06/04/2022,C085,36,Male,10,Standard,52,520,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,25,18,2,9,YES 
+07/04/2022,C086,28,Female,20,Standard,58,1160,Credit Card,1-Year,DSL,YES,YES,NO,YES,33,22,1,4,NO 
+08/04/2022,C087,33,Male,2,Basic,22,44,Cash,Month-to-Month,Fiber,NO,NO,NO,YES,9,6,6,30,YES 
+09/04/2022,C088,37,Male,6,Basic,40,160,Bank Transfer,2-Year,DSL,NO,NO,NO,YES,10,7,2,9,YES 
+10/04/2022,C089,25,Female,5,Basic,25,125,Credit Card,Month-to-Month,Fiber,NO,NO,NO,YES,12,15,2,5,YES 
+11/04/2022,C090,40,Male,24,Premium,80,1920,Bank Transfer,1-Year,DSL,YES,YES,YES,NO,50,30,0,2,NO 
+12/04/2022,C091,31,Female,12,Standard,50,600,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,30,10,3,10,YES 
+13/04/2022,C092,29,Male,36,Premium,90,3240,Credit Card,2-Year,Fiber,YES,YES,YES,YES,70,40,1,1,NO 
+14/04/2022,C093,45,Female,8,Basic,30,240,Cash,Month-to-Month,DSL,NO,NO,NO,NO,10,8,4,20,YES 
+15/04/2022,C094,34,Male,18,Standard,60,1080,Bank Transfer,1-Year,Fiber,YES,YES,NO,YES,40,25,1,3,NO 
+16/04/2022,C095,50,Female,48,Premium,100,4800,Credit Card,2-Year,Fiber,YES,YES,YES,YES,80,50,0,1,NO 
+17/04/2022,C096,22,Male,3,Basic,20,60,Cash,Month-to-Month,DSL,NO,NO,NO,YES,8,5,5,25,YES 
+18/04/2022,C097,38,Female,15,Standard,55,825,Debit Card,1-Year,Fiber,YES,YES,NO,YES,35,20,2,7,NO
+19/04/2022,C098,27,Male,6,Basic,28,168,Credit Card,Month-to-Month,DSL,NO,NO,NO,NO,15,12,3,12,YES 
+20/04/2022,C099,41,Female,30,Premium,85,2550,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,60,35,1,2,NO 
+21/04/2022,C100,36,Male,10,Standard,52,520,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,25,18,2,9,YES 
+22/04/2022,C101,28,Female,20,Standard,58,1160,Credit Card,1-Year,DSL,YES,YES,NO,YES,33,22,1,4,NO 
+23/04/2022,C102,33,Male,2,Basic,22,44,Cash,Month-to-Month,Fiber,NO,NO,NO,YES,9,6,6,30,YES 
+24/04/2022,C103,47,Female,60,Premium,110,6600,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,90,60,0,1,NO 
+25/04/2022,C104,25,Female,5,Basic,25,125,Credit Card,Month-to-Month,Fiber,NO,NO,NO,YES,12,15,2,5,YES 
+26/04/2022,C105,40,Male,24,Premium,80,1920,Bank Transfer,1-Year,DSL,YES,YES,YES,NO,50,30,0,2,NO 
+27/04/2022,C106,31,Female,12,Standard,50,600,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,30,10,3,10,YES 
+28/04/2022,C107,29,Male,36,Premium,90,3240,Credit Card,2-Year,Fiber,YES,YES,YES,YES,70,40,1,1,NO 
+29/04/2022,C108,45,Female,8,Basic,30,240,Cash,Month-to-Month,DSL,NO,NO,NO,NO,10,8,4,20,YES 
+30/04/2022,C109,34,Male,18,Standard,60,1080,Bank Transfer,1-Year,Fiber,YES,YES,NO,YES,40,25,1,3,NO 
+01/05/2022,C110,50,Female,48,Premium,100,4800,Credit Card,2-Year,Fiber,YES,YES,YES,YES,80,50,0,1,NO 
+02/05/2022,C111,22,Male,3,Basic,20,60,Cash,Month-to-Month,DSL,NO,NO,NO,YES,8,5,5,25,YES 
+03/05/2022,C112,38,Female,15,Standard,55,825,Debit Card,1-Year,Fiber,YES,YES,NO,YES,35,20,2,7,NO
+04/05/2022,C113,27,Male,6,Basic,28,168,Credit Card,Month-to-Month,DSL,NO,NO,NO,NO,15,12,3,12,YES 
+05/05/2022,C114,41,Female,30,Premium,85,2550,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,60,35,1,2,NO 
+06/05/2022,C115,36,Male,10,Standard,52,520,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,25,18,2,9,YES 
+07/05/2022,C116,28,Female,20,Standard,58,1160,Credit Card,1-Year,DSL,YES,YES,NO,YES,33,22,1,4,NO 
+08/05/2022,C117,33,Male,2,Basic,22,44,Cash,Month-to-Month,Fiber,NO,NO,NO,YES,9,6,6,30,YES 
+09/05/2022,C118,47,Female,60,Premium,110,6600,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,90,60,0,1,NO 
+10/05/2022,C119,29,Male,36,Premium,90,3240,Credit Card,2-Year,Fiber,YES,YES,YES,YES,70,40,1,1,NO 
+11/05/2022,C120,45,Female,8,Basic,30,240,Cash,Month-to-Month,DSL,NO,NO,NO,NO,10,8,4,20,YES 
+12/05/2022,C121,34,Male,18,Standard,60,1080,Bank Transfer,1-Year,Fiber,YES,YES,NO,YES,40,25,1,3,NO 
+13/05/2022,C122,50,Female,48,Premium,100,4800,Credit Card,2-Year,Fiber,YES,YES,YES,YES,80,50,0,1,NO 
+14/05/2022,C123,41,Female,30,Premium,85,2550,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,60,35,1,2,NO 
+15/05/2022,C124,36,Male,10,Standard,52,520,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,25,18,2,9,YES 
+16/05/2022,C125,28,Female,20,Standard,58,1160,Credit Card,1-Year,DSL,YES,YES,NO,YES,33,22,1,4,NO 
+17/05/2022,C126,33,Male,2,Basic,22,44,Cash,Month-to-Month,Fiber,NO,NO,NO,YES,9,6,6,30,YES 
+18/05/2022,C127,37,Male,6,Basic,40,160,Bank Transfer,2-Year,DSL,NO,NO,NO,YES,10,7,2,9,YES 
+19/05/2022,C128,25,Female,5,Basic,25,125,Credit Card,Month-to-Month,Fiber,NO,NO,NO,YES,12,15,2,5,YES 
+20/05/2022,C129,40,Male,24,Premium,80,1920,Bank Transfer,1-Year,DSL,YES,YES,YES,NO,50,30,0,2,NO 
+21/05/2022,C130,31,Female,12,Standard,50,600,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,30,10,3,10,YES 
+22/05/2022,C131,29,Male,36,Premium,90,3240,Credit Card,2-Year,Fiber,YES,YES,YES,YES,70,40,1,1,NO 
+23/05/2022,C132,45,Female,8,Basic,30,240,Cash,Month-to-Month,DSL,NO,NO,NO,NO,10,8,4,20,YES 
+24/05/2022,C133,34,Male,18,Standard,60,1080,Bank Transfer,1-Year,Fiber,YES,YES,NO,YES,40,25,1,3,NO 
+25/05/2022,C134,50,Female,48,Premium,100,4800,Credit Card,2-Year,Fiber,YES,YES,YES,YES,80,50,0,1,NO 
+26/05/2022,C135,22,Male,3,Basic,20,60,Cash,Month-to-Month,DSL,NO,NO,NO,YES,8,5,5,25,YES 
+27/05/2022,C136,38,Female,15,Standard,55,825,Debit Card,1-Year,Fiber,YES,YES,NO,YES,35,20,2,7,NO
+28/05/2022,C137,27,Male,6,Basic,28,168,Credit Card,Month-to-Month,DSL,NO,NO,NO,NO,15,12,3,12,YES 
+29/05/2022,C138,41,Female,30,Premium,85,2550,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,60,35,1,2,NO 
+30/05/2022,C139,36,Male,10,Standard,52,520,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,25,18,2,9,YES 
+31/05/2022,C140,28,Female,20,Standard,58,1160,Credit Card,1-Year,DSL,YES,YES,NO,YES,33,22,1,4,NO 
+01/06/2022,C141,33,Male,2,Basic,22,44,Cash,Month-to-Month,Fiber,NO,NO,NO,YES,9,6,6,30,YES 
+02/06/2022,C142,47,Female,60,Premium,110,6600,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,90,60,0,1,NO 
+03/06/2022,C143,22,Male,3,Basic,20,60,Cash,Month-to-Month,DSL,NO,NO,NO,YES,8,5,5,25,YES 
+04/06/2022,C144,38,Female,15,Standard,55,825,Debit Card,1-Year,Fiber,YES,YES,NO,YES,35,20,2,7,NO
+05/06/2022,C145,27,Male,6,Basic,28,168,Credit Card,Month-to-Month,DSL,NO,NO,NO,NO,15,12,3,12,YES 
+06/06/2022,C146,41,Female,30,Premium,85,2550,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,60,35,1,2,NO 
+07/06/2022,C147,36,Male,10,Standard,52,520,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,25,18,2,9,YES 
+08/06/2022,C148,28,Female,20,Standard,58,1160,Credit Card,1-Year,DSL,YES,YES,NO,YES,33,22,1,4,NO 
+09/06/2022,C149,33,Male,2,Basic,22,44,Cash,Month-to-Month,Fiber,NO,NO,NO,YES,9,6,6,30,YES 
+10/06/2022,C150,47,Female,60,Premium,110,6600,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,90,60,0,1,NO 
+11/06/2022,C151,29,Male,36,Premium,90,3240,Credit Card,2-Year,Fiber,YES,YES,YES,YES,70,40,1,1,NO 
+12/06/2022,C152,45,Female,8,Basic,30,240,Cash,Month-to-Month,DSL,NO,NO,NO,NO,10,8,4,20,YES 
+13/06/2022,C153,34,Male,18,Standard,60,1080,Bank Transfer,1-Year,Fiber,YES,YES,NO,YES,40,25,1,3,NO 
+14/06/2022,C154,50,Female,48,Premium,100,4800,Credit Card,2-Year,Fiber,YES,YES,YES,YES,80,50,0,1,NO 
+15/06/2022,C155,41,Female,30,Premium,85,2550,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,60,35,1,2,NO 
+16/06/2022,C156,36,Male,10,Standard,52,520,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,25,18,2,9,YES 
+17/06/2022,C157,28,Female,20,Standard,58,1160,Credit Card,1-Year,DSL,YES,YES,NO,YES,33,22,1,4,NO 
+18/06/2022,C158,33,Male,2,Basic,22,44,Cash,Month-to-Month,Fiber,NO,NO,NO,YES,9,6,6,30,YES 
+19/06/2022,C159,37,Male,6,Basic,40,160,Bank Transfer,2-Year,DSL,NO,NO,NO,YES,10,7,2,9,YES 
+20/06/2022,C160,25,Female,5,Basic,25,125,Credit Card,Month-to-Month,Fiber,NO,NO,NO,YES,12,15,2,5,YES 
+21/06/2022,C161,40,Male,24,Premium,80,1920,Bank Transfer,1-Year,DSL,YES,YES,YES,NO,50,30,0,2,NO 
+22/06/2022,C162,31,Female,12,Standard,50,600,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,30,10,3,10,YES 
+23/06/2022,C163,29,Male,36,Premium,90,3240,Credit Card,2-Year,Fiber,YES,YES,YES,YES,70,40,1,1,NO 
+24/06/2022,C164,45,Female,8,Basic,30,240,Cash,Month-to-Month,DSL,NO,NO,NO,NO,10,8,4,20,YES 
+25/06/2022,C165,34,Male,18,Standard,60,1080,Bank Transfer,1-Year,Fiber,YES,YES,NO,YES,40,25,1,3,NO 
+26/06/2022,C166,50,Female,48,Premium,100,4800,Credit Card,2-Year,Fiber,YES,YES,YES,YES,80,50,0,1,NO 
+27/06/2022,C167,22,Male,3,Basic,20,60,Cash,Month-to-Month,DSL,NO,NO,NO,YES,8,5,5,25,YES 
+28/06/2022,C168,38,Female,15,Standard,55,825,Debit Card,1-Year,Fiber,YES,YES,NO,YES,35,20,2,7,NO
+29/06/2022,C169,27,Male,6,Basic,28,168,Credit Card,Month-to-Month,DSL,NO,NO,NO,NO,15,12,3,12,YES 
+30/06/2022,C170,41,Female,30,Premium,85,2550,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,60,35,1,2,NO 
+01/07/2022,C171,36,Male,10,Standard,52,520,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,25,18,2,9,YES 
+02/07/2022,C172,28,Female,20,Standard,58,1160,Credit Card,1-Year,DSL,YES,YES,NO,YES,33,22,1,4,NO 
+03/07/2022,C173,33,Male,2,Basic,22,44,Cash,Month-to-Month,Fiber,NO,NO,NO,YES,9,6,6,30,YES 
+04/07/2022,C174,47,Female,60,Premium,110,6600,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,90,60,0,1,NO 
+05/07/2022,C175,22,Male,3,Basic,20,60,Cash,Month-to-Month,DSL,NO,NO,NO,YES,8,5,5,25,YES 
+06/07/2022,C176,38,Female,15,Standard,55,825,Debit Card,1-Year,Fiber,YES,YES,NO,YES,35,20,2,7,NO
+07/07/2022,C177,27,Male,6,Basic,28,168,Credit Card,Month-to-Month,DSL,NO,NO,NO,NO,15,12,3,12,YES 
+08/07/2022,C178,41,Female,30,Premium,85,2550,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,60,35,1,2,NO 
+09/07/2022,C179,36,Male,10,Standard,52,520,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,25,18,2,9,YES 
+10/07/2022,C180,28,Female,20,Standard,58,1160,Credit Card,1-Year,DSL,YES,YES,NO,YES,33,22,1,4,NO 
+11/07/2022,C181,33,Male,2,Basic,22,44,Cash,Month-to-Month,Fiber,NO,NO,NO,YES,9,6,6,30,YES 
+12/07/2022,C182,47,Female,60,Premium,110,6600,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,90,60,0,1,NO 
+13/07/2022,C183,29,Male,36,Premium,90,3240,Credit Card,2-Year,Fiber,YES,YES,YES,YES,70,40,1,1,NO 
+14/07/2022,C184,45,Female,8,Basic,30,240,Cash,Month-to-Month,DSL,NO,NO,NO,NO,10,8,4,20,YES 
+15/07/2022,C185,34,Male,18,Standard,60,1080,Bank Transfer,1-Year,Fiber,YES,YES,NO,YES,40,25,1,3,NO 
+16/07/2022,C186,50,Female,48,Premium,100,4800,Credit Card,2-Year,Fiber,YES,YES,YES,YES,80,50,0,1,NO 
+17/07/2022,C187,41,Female,30,Premium,85,2550,Bank Transfer,2-Year,Fiber,YES,YES,YES,YES,60,35,1,2,NO 
+18/07/2022,C188,36,Male,10,Standard,52,520,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,25,18,2,9,YES 
+19/07/2022,C189,28,Female,20,Standard,58,1160,Credit Card,1-Year,DSL,YES,YES,NO,YES,33,22,1,4,NO 
+20/07/2022,C190,33,Male,2,Basic,22,44,Cash,Month-to-Month,Fiber,NO,NO,NO,YES,9,6,6,30,YES 
+21/07/2022,C191,37,Male,6,Basic,40,160,Bank Transfer,2-Year,DSL,NO,NO,NO,YES,10,7,2,9,YES 
+22/07/2022,C192,25,Female,5,Basic,25,125,Credit Card,Month-to-Month,Fiber,NO,NO,NO,YES,12,15,2,5,YES 
+23/07/2022,C193,40,Male,24,Premium,80,1920,Bank Transfer,1-Year,DSL,YES,YES,YES,NO,50,30,0,2,NO 
+24/07/2022,C194,31,Female,12,Standard,50,600,Debit Card,Month-to-Month,Fiber,NO,YES,NO,YES,30,10,3,10,YES 
+25/07/2022,C195,29,Male,36,Premium,90,3240,Credit Card,2-Year,Fiber,YES,YES,YES,YES,70,40,1,1,NO 
+26/07/2022,C196,45,Female,8,Basic,30,240,Cash,Month-to-Month,DSL,NO,NO,NO,NO,10,8,4,20,YES 
+27/07/2022,C197,34,Male,18,Standard,60,1080,Bank Transfer,1-Year,Fiber,YES,YES,NO,YES,40,25,1,3,NO 
+28/07/2022,C198,50,Female,48,Premium,100,4800,Credit Card,2-Year,Fiber,YES,YES,YES,YES,80,50,0,1,NO 
+29/07/2022,C199,22,Male,3,Basic,20,60,Cash,Month-to-Month,DSL,NO,NO,NO,YES,8,5,5,25,YES 
+30/07/2022,C200,38,Female,15,Standard,55,825,Debit Card,1-Year,Fiber,YES,YES,NO,YES,35,20,2,7,NO
