@@ -1,8 +1,13 @@
 # Customer-Churn-Analysis
 ## Objective: 
 To analyze customer behavior and identify key factors driving churn, and provide actionable business insights.
-## Tools Used: Python (Pandas, Matplotlib), Excel, Power BI
-## Data Source: Dataset was engineered synthetically for practice purposes 
+## Tools Used: 
+1.Python (Pandas, Matplotlib)
+2.Excel
+3.Power BI
+## Data Source: 
+Dataset was engineered synthetically for practice purposes 
+
 ## Business Questions:
 1. What is the churn rate?
 2. Which Contract type has the highest churn?
@@ -15,15 +20,15 @@ To analyze customer behavior and identify key factors driving churn, and provide
 9. Is payment Method linked to churn?
 10. Predict high-risk customers.
 
-# Insights:
-This shows that nearly half of the customer base is being lost, indicating a significant retention problem.
-Customers on Month-to-Month contracts exhibit the highest churn, suggesting Low commitment increases likelihood of leaving
+# Insights
+1.This shows that nearly half of the customer base is being lost indicating a significant retention problem
+2.Customers on Month-to-Month contracts exhibit the highest churn, suggesting Low commitment increases likelihood of leaving
 Monthly charges alone do not appear to strongly drive churn.
-Customers with lower engagement (less logins) show higher churn, indicating disengaged users are more likely to leave
-Customers with higher support tickets activities are more likely to churn, suggesting unresolved issues impacting retention 
-Customers with shorter tenure exhibit higher churn, indicating early-stage retention is critical.
-Customers using DSL Services show higher churn compared to fiber suggesting service quality difference may influence retention.
-Customers using cash payment methods show the highest churn, possibly due to lower convenience.
+3. Customers with lower engagement (less logins) show higher churn, indicating disengaged users are more likely to leave
+4. Customers with higher support tickets activities are more likely to churn, suggesting unresolved issues impacting retention 
+5. Customers with shorter tenure exhibit higher churn, indicating early-stage retention is critical.
+6. Customers using DSL Services show higher churn compared to fiber suggesting service quality difference may influence retention.
+7. Customers using cash payment methods show the highest churn, possibly due to lower convenience.
 
 ## Business Recommendation
 1. Introduce incentives for long-term contracts ie (discounts, loyalty, benefits).
